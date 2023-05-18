@@ -1,0 +1,8 @@
+{
+  "name": "@hp/lib",
+  "packageManager": "yarn@3.5.1",
+  "main": "./src/index.ts",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
